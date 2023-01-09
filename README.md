@@ -1,4 +1,4 @@
-# ObjectDetetectionUsingYoloAlgorithm
+# ObjectDetetectionUsingYoloV5Algorithm
 
 We are going to use YOLO v3 for our coding purpose  . Before going to code, we need to download some important YOLO files.  
 
